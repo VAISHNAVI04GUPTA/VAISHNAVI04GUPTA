@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning, Computational Fluid Dynamics, and Robotics.<br>👯 I want to collaborate on exciting projects in any of the above fields.<br>🌱 I’m currently learning about Open-source.<br>💬 Ping me to discuss or talk about CFD and Machine Learning.<br>⚡ Fun fact: "A pro is just an amateur who showed up daily."
+🔭 I’m currently working on Deep Learning, Computational Fluid Dynamics, and Robotics.<br>👯 I want to collaborate on exciting projects in any of the above fields.<br>🌱 I’m an active contributor in Open-source.<br>💬 Ping me to discuss or talk about CFD and Machine Learning.<br>⚡ Fun fact: "A pro is just an amateur who showed up daily."
 
 
 ## 🌐 Socials:
